@@ -60,13 +60,11 @@ print(t)
 # a = "啦啦啦啦啦啦"
 # print(len(a))
 
-# a = input("请输入a的内容：")
-# b = input("请输入b的内容：")
-# print("input获取的内容：",len(a+b))
-
+# 练习：获取两段代码，并求出二两代码的长度之和
 a = input("请输入a的内容：")
 b = input("请输入b的内容：")
 print("input获取的两段内容之和：",len(a+b))
+
 
 
 
